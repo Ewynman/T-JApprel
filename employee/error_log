@@ -1,0 +1,102 @@
+[22-Nov-2022 23:15:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_type' doesn't have a default value in /home/wynmane1/public_html/CSIT355Project/functions.php:399
+Stack trace:
+#0 /home/wynmane1/public_html/CSIT355Project/functions.php(399): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/CSIT355Project/functions.php(374): empcustregister()
+#2 /home/wynmane1/public_html/CSIT355Project/employee/create_user.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/CSIT355Project/functions.php on line 399
+[22-Nov-2022 23:15:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_type' doesn't have a default value in /home/wynmane1/public_html/CSIT355Project/functions.php:399
+Stack trace:
+#0 /home/wynmane1/public_html/CSIT355Project/functions.php(399): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/CSIT355Project/functions.php(374): empcustregister()
+#2 /home/wynmane1/public_html/CSIT355Project/employee/create_user.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/CSIT355Project/functions.php on line 399
+[22-Nov-2022 23:17:14 UTC] PHP Notice:  Undefined index: user_type in /home/wynmane1/public_html/CSIT355Project/functions.php on line 394
+[22-Nov-2022 23:17:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2 in /home/wynmane1/public_html/CSIT355Project/functions.php:400
+Stack trace:
+#0 /home/wynmane1/public_html/CSIT355Project/functions.php(400): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/CSIT355Project/functions.php(374): empcustregister()
+#2 /home/wynmane1/public_html/CSIT355Project/employee/create_user.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/CSIT355Project/functions.php on line 400
+[22-Nov-2022 23:19:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'John' for key 'username' in /home/wynmane1/public_html/CSIT355Project/functions.php:400
+Stack trace:
+#0 /home/wynmane1/public_html/CSIT355Project/functions.php(400): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/CSIT355Project/functions.php(374): empcustregister()
+#2 /home/wynmane1/public_html/CSIT355Project/employee/create_user.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/CSIT355Project/functions.php on line 400
+[27-Nov-2022 03:35:33 UTC] PHP Notice:  Undefined variable: search in /home/wynmane1/public_html/T&JApparel/employee/search.php on line 3
+[27-Nov-2022 03:35:33 UTC] PHP Notice:  Undefined variable: conn in /home/wynmane1/public_html/T&JApparel/employee/search.php on line 15
+[27-Nov-2022 03:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/wynmane1/public_html/T&JApparel/employee/search.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/employee/search.php on line 15
+[27-Nov-2022 03:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/wynmane1/public_html/T&JApparel/employee/search.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/employee/search.php on line 55
+[28-Nov-2022 17:49:55 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/wynmane1/public_html/T&JApparel/employee/search.php on line 7
+[28-Nov-2022 17:52:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[28-Nov-2022 17:53:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[28-Nov-2022 17:54:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[28-Nov-2022 17:54:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[28-Nov-2022 17:55:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[28-Nov-2022 20:29:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[28-Nov-2022 21:32:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:30:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 480
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 481
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 482
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 483
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 484
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 485
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 486
+[02-Dec-2022 18:30:04 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 487
+[02-Dec-2022 18:30:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/employee/search.php:1) in /home/wynmane1/public_html/T&JApparel/functions.php on line 494
+[02-Dec-2022 18:30:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 480
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 481
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 482
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 483
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 484
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 485
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 486
+[02-Dec-2022 18:30:23 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 487
+[02-Dec-2022 18:30:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/employee/search.php:1) in /home/wynmane1/public_html/T&JApparel/functions.php on line 494
+[07-Dec-2022 03:54:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_type' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:427
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(427): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(402): empcustregister()
+#2 /home/wynmane1/public_html/T&JApparel/employee/create_user.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 427
+[07-Dec-2022 03:54:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_type' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:427
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(427): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(402): empcustregister()
+#2 /home/wynmane1/public_html/T&JApparel/employee/create_user.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 427
+[12-Dec-2022 02:03:54 UTC] PHP Notice:  Undefined variable: user_id in /home/wynmane1/public_html/T&JApparel/employee/emphome.php on line 31
+[12-Dec-2022 14:32:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[12-Dec-2022 14:32:47 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[12-Dec-2022 14:32:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/employee/search.php:1) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550
+[15-Dec-2022 03:39:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[15-Dec-2022 03:39:32 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[15-Dec-2022 03:39:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/employee/search.php:1) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550

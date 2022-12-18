@@ -1,0 +1,1472 @@
+[25-Nov-2022 17:21:08 UTC] PHP Notice:  Undefined variable: conn in /home/wynmane1/public_html/T&JApparel/cart.php on line 5
+[25-Nov-2022 17:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wynmane1/public_html/T&JApparel/cart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 5
+[25-Nov-2022 17:25:23 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:25:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:25:36 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:25:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:25:37 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:25:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:26:42 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:26:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:26:43 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:26:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:26:44 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:26:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:28:04 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:28:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:398
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(398): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 398
+[25-Nov-2022 17:28:05 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:28:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:398
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(398): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 398
+[25-Nov-2022 17:28:05 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:28:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:398
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(398): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 398
+[25-Nov-2022 17:28:30 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:28:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:398
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(398): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 398
+[25-Nov-2022 17:28:31 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:28:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:398
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(398): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 398
+[25-Nov-2022 17:32:10 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:32:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:398
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(398): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 398
+[25-Nov-2022 17:33:03 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 396
+[25-Nov-2022 17:33:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:397
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(397): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:34:19 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 396
+[25-Nov-2022 17:34:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:397
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(397): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:37:48 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 396
+[25-Nov-2022 17:37:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:397
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(397): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:38:11 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 396
+[25-Nov-2022 17:38:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:397
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(397): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:38:26 UTC] PHP Notice:  Undefined variable: product_id in /home/wynmane1/public_html/T&JApparel/functions.php on line 396
+[25-Nov-2022 17:38:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:397
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(397): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:44:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'Pnum' cannot be null in /home/wynmane1/public_html/T&JApparel/functions.php:397
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(397): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 397
+[25-Nov-2022 17:49:26 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:27 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:28 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:28 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:28 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:28 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:28 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:29 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:29 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:29 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:29 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:29 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:30 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:30 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:30 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:49:45 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:49:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:50:12 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:50:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:50:22 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:50:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:51:29 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:51:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:51:44 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:51:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:51:56 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:51:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:52:26 UTC] PHP Notice:  Undefined variable: Pnum in /home/wynmane1/public_html/T&JApparel/functions.php on line 386
+[25-Nov-2022 17:52:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:387
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(387): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 387
+[25-Nov-2022 17:53:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wynmane1_csit355project.product' doesn't exist in /home/wynmane1/public_html/T&JApparel/cart.php:65
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/cart.php(65): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 65
+[28-Nov-2022 17:05:27 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 168
+[28-Nov-2022 17:05:27 UTC] PHP Notice:  Undefined variable: 23.97 in /home/wynmane1/public_html/T&JApparel/cart.php on line 172
+[28-Nov-2022 17:06:02 UTC] PHP Warning:  A non-numeric value encountered in /home/wynmane1/public_html/T&JApparel/cart.php on line 169
+[28-Nov-2022 17:06:02 UTC] PHP Warning:  A non-numeric value encountered in /home/wynmane1/public_html/T&JApparel/cart.php on line 169
+[28-Nov-2022 17:06:02 UTC] PHP Warning:  A non-numeric value encountered in /home/wynmane1/public_html/T&JApparel/cart.php on line 169
+[28-Nov-2022 17:06:02 UTC] PHP Notice:  Undefined variable: 2.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:06:42 UTC] PHP Notice:  Undefined variable: 2.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:07:13 UTC] PHP Notice:  Undefined variable: 2.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:07:22 UTC] PHP Notice:  Undefined variable: 2.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:07:24 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:22:28 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:25:15 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:43:17 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:43:30 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:57:44 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:57:46 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 17:58:57 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 174
+[28-Nov-2022 18:01:24 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 18:03:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/wynmane1/public_html/T&JApparel/cart.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 149
+[28-Nov-2022 18:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/wynmane1/public_html/T&JApparel/cart.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 149
+[28-Nov-2022 18:06:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/wynmane1/public_html/T&JApparel/cart.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 6
+[28-Nov-2022 18:07:41 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 174
+[28-Nov-2022 18:08:04 UTC] PHP Notice:  Undefined variable: 4.99 in /home/wynmane1/public_html/T&JApparel/cart.php on line 173
+[28-Nov-2022 18:15:22 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 179
+[28-Nov-2022 18:15:43 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 178
+[28-Nov-2022 18:18:30 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 178
+[28-Nov-2022 18:18:46 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 178
+[28-Nov-2022 18:19:06 UTC] PHP Warning:  Use of undefined constant hello - assumed 'hello' (this will throw an Error in a future version of PHP) in /home/wynmane1/public_html/T&JApparel/cart.php on line 178
+[28-Nov-2022 18:19:43 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 174
+[28-Nov-2022 18:20:26 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 175
+[28-Nov-2022 18:20:29 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 175
+[28-Nov-2022 18:20:41 UTC] PHP Notice:  Undefined variable: totalprice in /home/wynmane1/public_html/T&JApparel/cart.php on line 175
+[28-Nov-2022 18:23:14 UTC] PHP Notice:  A non well formed numeric value encountered in /home/wynmane1/public_html/T&JApparel/cart.php on line 170
+[28-Nov-2022 18:23:47 UTC] PHP Notice:  A non well formed numeric value encountered in /home/wynmane1/public_html/T&JApparel/cart.php on line 170
+[28-Nov-2022 18:23:53 UTC] PHP Notice:  A non well formed numeric value encountered in /home/wynmane1/public_html/T&JApparel/cart.php on line 170
+[28-Nov-2022 21:03:54 UTC] PHP Notice:  Undefined variable: cartItemCount in /home/wynmane1/public_html/T&JApparel/checkout.php on line 63
+[28-Nov-2022 21:03:54 UTC] PHP Notice:  Undefined index: cart_items in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:03:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:14:09 UTC] PHP Notice:  Undefined variable: cartItemCount in /home/wynmane1/public_html/T&JApparel/checkout.php on line 63
+[28-Nov-2022 21:14:09 UTC] PHP Notice:  Undefined index: cart_items in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:14:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:16:30 UTC] PHP Notice:  Undefined variable: cartItemCount in /home/wynmane1/public_html/T&JApparel/checkout.php on line 63
+[28-Nov-2022 21:16:30 UTC] PHP Notice:  Undefined index: cart_items in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:16:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:16:33 UTC] PHP Notice:  Undefined variable: cartItemCount in /home/wynmane1/public_html/T&JApparel/checkout.php on line 63
+[28-Nov-2022 21:16:33 UTC] PHP Notice:  Undefined index: cart_items in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:16:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:16:37 UTC] PHP Notice:  Undefined variable: cartItemCount in /home/wynmane1/public_html/T&JApparel/checkout.php on line 63
+[28-Nov-2022 21:16:37 UTC] PHP Notice:  Undefined index: cart_items in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 21:16:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: fnameValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 64
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: lnameValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: emailValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 74
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: addressValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 79
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: address2Value in /home/wynmane1/public_html/T&JApparel/checkout.php on line 84
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: CountryValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 88
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: StateValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 92
+[28-Nov-2022 22:29:39 UTC] PHP Notice:  Undefined variable: ZipCodeValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 96
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: fnameValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 64
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: lnameValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: emailValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 74
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: addressValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 79
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: address2Value in /home/wynmane1/public_html/T&JApparel/checkout.php on line 84
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: CountryValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 88
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: StateValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 92
+[28-Nov-2022 22:51:15 UTC] PHP Notice:  Undefined variable: ZipCodeValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 96
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: fnameValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 64
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: lnameValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: emailValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 74
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: addressValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 79
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: address2Value in /home/wynmane1/public_html/T&JApparel/checkout.php on line 84
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: CountryValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 88
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: StateValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 92
+[28-Nov-2022 22:51:24 UTC] PHP Notice:  Undefined variable: ZipCodeValue in /home/wynmane1/public_html/T&JApparel/checkout.php on line 96
+[28-Nov-2022 23:32:03 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 457
+[28-Nov-2022 23:32:03 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 459
+[28-Nov-2022 23:32:03 UTC] PHP Notice:  Undefined variable: zipcpde in /home/wynmane1/public_html/T&JApparel/functions.php on line 469
+[28-Nov-2022 23:32:03 UTC] PHP Notice:  Undefined variable: db in /home/wynmane1/public_html/T&JApparel/functions.php on line 470
+[28-Nov-2022 23:32:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wynmane1/public_html/T&JApparel/functions.php:470
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#1 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#2 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 470
+[28-Nov-2022 23:33:25 UTC] PHP Notice:  Undefined variable: fname in /home/wynmane1/public_html/T&JApparel/checkout.php on line 64
+[28-Nov-2022 23:33:25 UTC] PHP Notice:  Undefined variable: lname in /home/wynmane1/public_html/T&JApparel/checkout.php on line 68
+[28-Nov-2022 23:33:49 UTC] PHP Notice:  Undefined variable: db in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[28-Nov-2022 23:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#1 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#2 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:09:52 UTC] PHP Notice:  Undefined variable: db in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#1 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#2 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:10:29 UTC] PHP Notice:  Undefined variable: db in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#1 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#2 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:11:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Wynman', 'edward.wynman@gmail.com','210 Cypress Avenue','', 'United States', 'NJ' at line 2 in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:15:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Y-m-d H:i:s')')' at line 2 in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:20:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE Cust_id=' at line 2 in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:21:55 UTC] PHP Notice:  Undefined variable: Cusids in /home/wynmane1/public_html/T&JApparel/checkout.php on line 5
+[29-Nov-2022 05:21:55 UTC] PHP Warning:  mysqli::query(): Empty query in /home/wynmane1/public_html/T&JApparel/checkout.php on line 5
+[29-Nov-2022 05:22:19 UTC] PHP Notice:  Undefined variable: Cusids in /home/wynmane1/public_html/T&JApparel/checkout.php on line 5
+[29-Nov-2022 05:22:19 UTC] PHP Warning:  mysqli::query(): Empty query in /home/wynmane1/public_html/T&JApparel/checkout.php on line 5
+[29-Nov-2022 05:23:28 UTC] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/wynmane1/public_html/T&JApparel/checkout.php on line 61
+[29-Nov-2022 05:23:28 UTC] PHP Warning:  Illegal string offset '' in /home/wynmane1/public_html/T&JApparel/checkout.php on line 61
+[29-Nov-2022 05:27:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/wynmane1/public_html/T&JApparel/myaccount.php on line 74
+[29-Nov-2022 05:31:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE Cust_id=' at line 2 in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:32:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[29-Nov-2022 05:32:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[29-Nov-2022 05:32:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[29-Nov-2022 05:32:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_ID' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:33:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','Wynman', 'edward.wynman@gmail.com','210 Cypress Avenue','', 'United States', ' at line 2 in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[29-Nov-2022 05:33:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'Cust_ID' at row 1 in /home/wynmane1/public_html/T&JApparel/functions.php:468
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(468): mysqli->query('INSERT INTO ord...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(441): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 468
+[01-Dec-2022 18:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/wynmane1/public_html/T&JApparel/myaccount.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/myaccount.php on line 3
+[02-Dec-2022 17:45:21 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:23 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:30 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:30 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:30 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:33 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:33 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:34 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:36 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:37 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:45:37 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:57:49 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[02-Dec-2022 17:57:49 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[02-Dec-2022 17:57:49 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:57:49 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:58:14 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:58:14 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:58:21 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:58:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:58:21 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 17:58:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:12 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:12 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:19 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:19 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:32 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:37 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:37 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:37 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:00:37 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:01:03 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:01:03 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:01:08 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:01:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:01:08 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_f3410647f54684729a1df9e44c31ba07, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:01:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[02-Dec-2022 18:14:34 UTC] PHP Notice:  Undefined variable: logged_in_user in /home/wynmane1/public_html/T&JApparel/functions.php on line 116
+[02-Dec-2022 18:14:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:116) in /home/wynmane1/public_html/T&JApparel/functions.php on line 118
+[02-Dec-2022 18:14:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:116) in /home/wynmane1/public_html/T&JApparel/homepg.php on line 5
+[02-Dec-2022 18:17:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, object given in /home/wynmane1/public_html/T&JApparel/functions.php on line 116
+[02-Dec-2022 18:18:22 UTC] PHP Notice:  Object of class mysqli could not be converted to int in /home/wynmane1/public_html/T&JApparel/functions.php on line 116
+[02-Dec-2022 18:18:22 UTC] PHP Notice:  Undefined variable: logged_in_user in /home/wynmane1/public_html/T&JApparel/functions.php on line 117
+[02-Dec-2022 18:18:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:116) in /home/wynmane1/public_html/T&JApparel/functions.php on line 119
+[02-Dec-2022 18:18:35 UTC] PHP Notice:  Undefined variable: logged_in_user in /home/wynmane1/public_html/T&JApparel/functions.php on line 117
+[02-Dec-2022 18:18:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:117) in /home/wynmane1/public_html/T&JApparel/functions.php on line 119
+[02-Dec-2022 18:18:49 UTC] PHP Notice:  Undefined variable: logged_in_user in /home/wynmane1/public_html/T&JApparel/functions.php on line 117
+[02-Dec-2022 18:18:54 UTC] PHP Notice:  Undefined variable: logged_in_user in /home/wynmane1/public_html/T&JApparel/functions.php on line 117
+[02-Dec-2022 18:29:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Baian' for key 'username' in /home/wynmane1/public_html/T&JApparel/functions.php:78
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(78): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(54): custregister()
+#2 /home/wynmane1/public_html/T&JApparel/register.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 78
+[02-Dec-2022 18:29:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Baian' for key 'username' in /home/wynmane1/public_html/T&JApparel/functions.php:78
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(78): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(54): custregister()
+#2 /home/wynmane1/public_html/T&JApparel/register.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 78
+[05-Dec-2022 13:15:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* FROM cart' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:495
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(495): mysqli->query('DELETE * FROM c...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(464): completecheckout()
+#2 /home/wynmane1/public_html/T&JApparel/checkout.php(2): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 495
+[05-Dec-2022 16:21:00 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:00 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:08 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:15 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:15 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:36 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:45 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:45 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:45 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:45 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:46 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_68886ab9fbbd875ec62026a04d657b2e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[05-Dec-2022 16:21:46 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:14:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/wynmane1/public_html/T&JApparel/functions.php:78
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(78): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(54): custregister()
+#2 /home/wynmane1/public_html/T&JApparel/register.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 78
+[07-Dec-2022 19:14:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '' for key 'username' in /home/wynmane1/public_html/T&JApparel/functions.php:78
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(78): mysqli->query('INSERT INTO cus...')
+#1 /home/wynmane1/public_html/T&JApparel/functions.php(54): custregister()
+#2 /home/wynmane1/public_html/T&JApparel/register.php(1): include('/home/wynmane1/...')
+#3 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 78
+[07-Dec-2022 19:37:40 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:40 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:46 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:46 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:51 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:51 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:54 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:54 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:55 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:55 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:57 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:57 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:37:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[07-Dec-2022 19:38:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[07-Dec-2022 19:38:02 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:02 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:05 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:05 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:05 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:05 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:10 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e64faefb0ecc37727bf9cbe7ba07dcc5, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[07-Dec-2022 19:38:10 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[08-Dec-2022 18:28:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE Cust_id =' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:451
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(451): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 451
+[08-Dec-2022 18:28:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE Cust_id =' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:451
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(451): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 451
+[08-Dec-2022 18:33:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:451
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(451): mysqli->query('SELECT Cust_id ...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 451
+[08-Dec-2022 18:37:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':Cust_id' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:450
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(450): mysqli->prepare('SELECT Cust_id ...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 450
+[08-Dec-2022 18:37:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':Cust_id' at line 1 in /home/wynmane1/public_html/T&JApparel/functions.php:450
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(450): mysqli->prepare('SELECT Cust_id ...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 450
+[08-Dec-2022 18:43:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:453
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(453): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 453
+[08-Dec-2022 18:43:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:453
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(453): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 453
+[08-Dec-2022 18:43:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:453
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(453): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 453
+[08-Dec-2022 18:43:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:453
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(453): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 453
+[08-Dec-2022 18:43:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:453
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(453): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 453
+[08-Dec-2022 18:45:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:446
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(446): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 446
+[08-Dec-2022 18:45:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:446
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(446): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 446
+[08-Dec-2022 18:45:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:446
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(446): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 446
+[08-Dec-2022 18:46:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:449
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(449): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 449
+[08-Dec-2022 18:46:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:449
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(449): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 449
+[08-Dec-2022 21:15:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Cust_id' in 'IN/ALL/ANY subquery' in /home/wynmane1/public_html/T&JApparel/cart.php:5
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/cart.php(5): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 5
+[08-Dec-2022 21:21:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 524
+[08-Dec-2022 21:21:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 524
+[08-Dec-2022 21:23:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 525
+[08-Dec-2022 21:23:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 525
+[08-Dec-2022 21:23:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 525
+[08-Dec-2022 21:24:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 522
+[08-Dec-2022 21:24:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 522
+[08-Dec-2022 21:24:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wynmane1/public_html/T&JApparel/functions.php on line 522
+[08-Dec-2022 22:09:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wynmane1_csit355project.users' doesn't exist in /home/wynmane1/public_html/T&JApparel/functions.php:133
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(133): mysqli->query('SELECT password...')
+#1 /home/wynmane1/public_html/T&JApparel/homepg.php(2): include('/home/wynmane1/...')
+#2 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 133
+[08-Dec-2022 22:15:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:15:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:15:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:15:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:15:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'Cust_id' doesn't have a default value in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:17:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:432
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(432): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 432
+[08-Dec-2022 22:17:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:432
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(432): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 432
+[08-Dec-2022 22:17:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:17:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:17:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Cust_id' in 'IN/ALL/ANY subquery' in /home/wynmane1/public_html/T&JApparel/cart.php:5
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/cart.php(5): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 5
+[08-Dec-2022 22:17:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Cust_id' in 'IN/ALL/ANY subquery' in /home/wynmane1/public_html/T&JApparel/cart.php:5
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/cart.php(5): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/cart.php on line 5
+[08-Dec-2022 22:17:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:17:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[08-Dec-2022 22:20:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[08-Dec-2022 22:20:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[08-Dec-2022 22:20:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[09-Dec-2022 01:56:27 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:27 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:42 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:47 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:47 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[09-Dec-2022 01:56:48 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[09-Dec-2022 01:56:50 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:56:50 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:57:15 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[09-Dec-2022 01:57:15 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[09-Dec-2022 01:57:15 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:57:15 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:57:17 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:57:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:17 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:50 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:50 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:51 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:51 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:56 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4a0cf6852aea89d64a86fc41f583b2dc, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 01:59:56 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[09-Dec-2022 21:14:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[10-Dec-2022 19:37:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[10-Dec-2022 19:37:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '163' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[10-Dec-2022 19:37:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '163' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[10-Dec-2022 19:37:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '164' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[10-Dec-2022 19:37:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '163' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[10-Dec-2022 19:37:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[10-Dec-2022 19:37:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:433
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(433): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 433
+[10-Dec-2022 19:37:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:429
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(429): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 429
+[10-Dec-2022 20:24:36 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_e477e434a36872a5a3757df1b5180804, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[10-Dec-2022 20:24:36 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[11-Dec-2022 18:46:35 UTC] PHP Fatal error:  Cannot redeclare Empregister() (previously declared in /home/wynmane1/public_html/T&JApparel/functions.php:266) in /home/wynmane1/public_html/T&JApparel/functions.php on line 355
+[11-Dec-2022 18:46:43 UTC] PHP Fatal error:  Cannot redeclare Empregister() (previously declared in /home/wynmane1/public_html/T&JApparel/functions.php:266) in /home/wynmane1/public_html/T&JApparel/functions.php on line 356
+[11-Dec-2022 18:46:44 UTC] PHP Fatal error:  Cannot redeclare Empregister() (previously declared in /home/wynmane1/public_html/T&JApparel/functions.php:266) in /home/wynmane1/public_html/T&JApparel/functions.php on line 356
+[11-Dec-2022 18:57:09 UTC] PHP Notice:  Undefined index: searchtype in /home/wynmane1/public_html/T&JApparel/custsearchresults.php on line 42
+[11-Dec-2022 18:57:09 UTC] PHP Notice:  Undefined index: searchterm in /home/wynmane1/public_html/T&JApparel/custsearchresults.php on line 43
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[11-Dec-2022 18:58:04 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[11-Dec-2022 18:58:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:532) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[11-Dec-2022 19:01:01 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[11-Dec-2022 19:01:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:532) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[11-Dec-2022 19:10:03 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[11-Dec-2022 19:10:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:532) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[11-Dec-2022 19:10:29 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[11-Dec-2022 19:10:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:532) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: Fname in /home/wynmane1/public_html/T&JApparel/functions.php on line 532
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: Lname in /home/wynmane1/public_html/T&JApparel/functions.php on line 533
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: email in /home/wynmane1/public_html/T&JApparel/functions.php on line 534
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: address in /home/wynmane1/public_html/T&JApparel/functions.php on line 535
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: address2 in /home/wynmane1/public_html/T&JApparel/functions.php on line 536
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: country in /home/wynmane1/public_html/T&JApparel/functions.php on line 537
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: state in /home/wynmane1/public_html/T&JApparel/functions.php on line 538
+[11-Dec-2022 19:10:53 UTC] PHP Notice:  Undefined index: zipcode in /home/wynmane1/public_html/T&JApparel/functions.php on line 539
+[11-Dec-2022 19:10:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wynmane1/public_html/T&JApparel/functions.php:532) in /home/wynmane1/public_html/T&JApparel/functions.php on line 550
+[11-Dec-2022 19:20:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[11-Dec-2022 19:20:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[11-Dec-2022 19:20:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[11-Dec-2022 19:20:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 14:30:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 14:30:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 14:30:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 17:38:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:38:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:38:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:38:42 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '150' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 17:39:41 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:47 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:47 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:39:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:40:13 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:40:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:40:52 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:40:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:40:53 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:40:53 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:00 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:00 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:00 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:00 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:09 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:09 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:12 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:13 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[12-Dec-2022 17:41:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/logout.php on line 3
+[12-Dec-2022 17:41:14 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_a27a80d96554233814b497e28f1d1f97, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:41:14 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 17:46:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 17:46:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '168' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 17:46:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 17:46:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '170' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[12-Dec-2022 17:46:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '170' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 17:46:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '170' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[12-Dec-2022 18:46:33 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_9d5abf99bcde5cb1a6554d1589dbbd0e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 18:46:33 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 20:22:52 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_9d5abf99bcde5cb1a6554d1589dbbd0e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 20:22:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 20:53:05 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_9d5abf99bcde5cb1a6554d1589dbbd0e, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[12-Dec-2022 20:53:05 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:21:46 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4c19d169bf98bcd182ce4b52fa2f0898, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:21:46 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:22:46 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4c19d169bf98bcd182ce4b52fa2f0898, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:22:46 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:22:53 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4c19d169bf98bcd182ce4b52fa2f0898, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:22:53 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:23:00 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4c19d169bf98bcd182ce4b52fa2f0898, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:23:00 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:23:13 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_4c19d169bf98bcd182ce4b52fa2f0898, O_RDWR) failed: Permission denied (13) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[13-Dec-2022 02:23:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/wynmane1/public_html/T&JApparel/functions.php on line 2
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:47:56 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 18:51:40 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[14-Dec-2022 19:03:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:03:59 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:08 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[14-Dec-2022 19:04:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:14 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[14-Dec-2022 19:04:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '167' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:488
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(488): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 488
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[14-Dec-2022 19:04:18 UTC] PHP Notice:  Undefined index: product_image in /home/wynmane1/public_html/T&JApparel/products.php on line 202
+[15-Dec-2022 00:24:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '169' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:24:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '170' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:24:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '160' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:24:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '174' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:25:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '173' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:25:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '159' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:25:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '164' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:25:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '163' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:25:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '158' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '175' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '176' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '177' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '178' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '145' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '147' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '148' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '150' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '146' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '149' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '156' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '154' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '155' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '153' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '152' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '151' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '157' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '164' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '165' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[15-Dec-2022 00:26:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '158' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[16-Dec-2022 19:17:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '170' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[16-Dec-2022 19:17:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '159' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
+[16-Dec-2022 23:34:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '166' for key 'PRIMARY' in /home/wynmane1/public_html/T&JApparel/functions.php:492
+Stack trace:
+#0 /home/wynmane1/public_html/T&JApparel/functions.php(492): mysqli->query('INSERT INTO car...')
+#1 {main}
+  thrown in /home/wynmane1/public_html/T&JApparel/functions.php on line 492
